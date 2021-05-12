@@ -31,6 +31,12 @@ img{
     img{
         width:200px;
     }
+    label{
+        font-size:10px;
+    }
+    li{
+        font-size:10px;
+    }
 }
 .fontStyle{
     font-weight:bold;
